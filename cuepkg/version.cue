@@ -1,3 +1,3 @@
 package cuepkg
 
-#Version: "v1"
+#Version: "v2"
